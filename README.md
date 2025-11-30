@@ -14,3 +14,30 @@ Manajer akun UDP ZIVPN versi CLI klasik — simpel, cepat, dan powerful.
 - Tampilan klasik seperti terminal SSH panel
 
 ## 📁 Struktur Folder
+/etc/zivpn/
+accounts.db
+logs.log
+backup/
+config/
+
+## 🚀 Instalasi
+
+bash <(curl -s https://raw.githubusercontent.com/Dika-bot/udpmbps/main/install.sh
+
+## 🛠️ Cara menjalankan
+
+udpmbps
+
+## 📌 OS Support
+- Ubuntu 18/20/22
+- Debian 9/10/11/12
+
+## 👤 Author
+Dika-bot – 2025  
+
+## 📌 OS Support
+- Ubuntu 18/20/22
+- Debian 9/10/11/12
+
+## 👤 Author
+Dika-bot – 2025  
