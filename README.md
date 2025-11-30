@@ -22,7 +22,9 @@ config/
 
 ## 🚀 Instalasi
 
-bash <(curl -s https://raw.githubusercontent.com/Dika-bot/udpmbps/main/install.sh
+wget -O install.sh https://raw.githubusercontent.com/Dika-bot/udpmbps/main/install.sh
+chmod +x install.sh
+./install.sh
 
 ## 🛠️ Cara menjalankan
 
